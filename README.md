@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MathunanVasanthan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java , Web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
